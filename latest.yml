@@ -1,8 +1,8 @@
-version: 0.8.1
+version: 0.8.2
 files:
-  - url: AerialOne-Setup-0.8.1.exe
-    sha512: 8Lndg2L8Tj4VCMR55mHXLfPVh3xAETQCHobeCFuJ9IW0m9s9lQquCONM9R/I1EmLrs0CY09TJ+SrvJi0iaUVVw==
-    size: 88562999
-path: AerialOne-Setup-0.8.1.exe
-sha512: 8Lndg2L8Tj4VCMR55mHXLfPVh3xAETQCHobeCFuJ9IW0m9s9lQquCONM9R/I1EmLrs0CY09TJ+SrvJi0iaUVVw==
-releaseDate: '2026-11-05T18:58:40.483Z'
+  - url: AerialOne-Setup-0.8.2.exe
+    sha512: dtHl8wUdNtlGafXUtLSwdgWqA7HMP5fi2wgq49tyJFkGaSHYTmDbiOdNpbZnyxqkbVa6yZJnd2649Cx77DwRlg==
+    size: 88563514
+path: AerialOne-Setup-0.8.2.exe
+sha512: dtHl8wUdNtlGafXUtLSwdgWqA7HMP5fi2wgq49tyJFkGaSHYTmDbiOdNpbZnyxqkbVa6yZJnd2649Cx77DwRlg==
+releaseDate: '2026-11-11T03:42:58.993Z'
